@@ -37,11 +37,11 @@ Loginform se creo para el formulario del ingreso al sistema
 Productoform se creo para el formulario de ingreso de palabra a buscar entre todos los producto
 Clienteform se creo para el formulario del ingreso de palabra a buscar entre todos los clientes
 
-archivo class_csv.py
+archivo class_csv.py:
 Contiene la clase Classificar donde los atributos del objeto se aloja el dato segun la colunna del csv
 
-archivo validar_csv.py
-contien classes de errores para motrar en la validacion del csv
+archivo validar_csv.py:
+contiene classes de errores para mostrar en la validacion del csv
 
 
 
