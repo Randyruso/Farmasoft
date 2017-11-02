@@ -14,7 +14,7 @@ corre con python 3 y su uso como framework flask.
 # Uso del programa
 
 Al acceder al sitio se visualiza la bienvenida, debe clickear en "Ingresar" y se requiere loguear para poder acceder al Sistema(usuario admin, pass admin).
-Una vez Ingresado al Sistema por defecto se ben las ultimas "n" ventas y se visualizan las siguientes Opciones en el menu superior.
+Una vez Ingresado al Sistema por defecto se ven las últimas "n" ventas y se visualizan las siguientes Opciones en el menu superior.
 
 FARMASOFT: muestra la pantalla de bienvenida con datos del desarrollador del sistema
 
